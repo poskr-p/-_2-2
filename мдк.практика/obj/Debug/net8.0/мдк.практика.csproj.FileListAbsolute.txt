@@ -1,0 +1,14 @@
+C:\Users\Полина\source\repos\мдк.практика\мдк.практика\bin\Debug\net8.0\мдк.практика.exe
+C:\Users\Полина\source\repos\мдк.практика\мдк.практика\bin\Debug\net8.0\мдк.практика.deps.json
+C:\Users\Полина\source\repos\мдк.практика\мдк.практика\bin\Debug\net8.0\мдк.практика.runtimeconfig.json
+C:\Users\Полина\source\repos\мдк.практика\мдк.практика\bin\Debug\net8.0\мдк.практика.dll
+C:\Users\Полина\source\repos\мдк.практика\мдк.практика\bin\Debug\net8.0\мдк.практика.pdb
+C:\Users\Полина\source\repos\мдк.практика\мдк.практика\obj\Debug\net8.0\мдк.практика.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Полина\source\repos\мдк.практика\мдк.практика\obj\Debug\net8.0\мдк.практика.AssemblyInfoInputs.cache
+C:\Users\Полина\source\repos\мдк.практика\мдк.практика\obj\Debug\net8.0\мдк.практика.AssemblyInfo.cs
+C:\Users\Полина\source\repos\мдк.практика\мдк.практика\obj\Debug\net8.0\мдк.практика.csproj.CoreCompileInputs.cache
+C:\Users\Полина\source\repos\мдк.практика\мдк.практика\obj\Debug\net8.0\мдк.практика.dll
+C:\Users\Полина\source\repos\мдк.практика\мдк.практика\obj\Debug\net8.0\refint\мдк.практика.dll
+C:\Users\Полина\source\repos\мдк.практика\мдк.практика\obj\Debug\net8.0\мдк.практика.pdb
+C:\Users\Полина\source\repos\мдк.практика\мдк.практика\obj\Debug\net8.0\мдк.практика.genruntimeconfig.cache
+C:\Users\Полина\source\repos\мдк.практика\мдк.практика\obj\Debug\net8.0\ref\мдк.практика.dll
